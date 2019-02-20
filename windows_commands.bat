@@ -32,7 +32,7 @@ ECHO G. Exit from Command Prompt
 ECHO.
 
 
-CHOICE /C ABCDEFG /N /M "Dear Arpit, Please Enter your choice:"
+CHOICE /C ABCDEFG /N /M "Dear User, Please Enter your choice:"
 
 :: Note - list ERRORLEVELS in decreasing order
 IF ERRORLEVEL 7 GOTO Exit
