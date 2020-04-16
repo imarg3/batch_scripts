@@ -5,7 +5,6 @@ CLS
 
 ECHO *******************************************************************************
 ECHO AUTHOR - ARPIT GUPTA
-ECHO GROUP - GIST
 ECHO EMAIL ID - imarg3@github.com
 ECHO Logged-in-Username is %USERNAME% on %DATE% at %TIME%
 ECHO *******************************************************************************
